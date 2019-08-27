@@ -6,7 +6,7 @@ class Puppy
   def initialize(name, breed, months_old)
     @name = name
     @breed = breed
-    @months_old = months old
+    @months_old = months_old
     
     @@all << self
     
